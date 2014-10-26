@@ -4,6 +4,9 @@ shinyUI(
         headerPanel("Son Height Prediction"),
         
         sidebarPanel(
+            h3('Instructions'),
+            h5('To you utlize the app, simply submit the height of the father and a prediction of the son height will be generated.  Also, a histogram will be rendered of all the son height data along side a redline refenencing the prediction. 
+'),
             numericInput('new.num', 'Height of Father (inches)', 68, min = 59, max = 78, step = 2),
             submitButton('Submit')
         ),

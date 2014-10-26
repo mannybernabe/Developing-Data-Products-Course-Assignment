@@ -3,7 +3,7 @@ Developing-Data-Products-Course-Assignment
 
 The Son Height Prediction Model ShinyApp makes predictions of son heights based on father heights.
 
-You can access the app here: [Shiny App](https://mannybernabe.shinyapps.io/projectApp/)
+You can access the app here: [Shiny App](http://mannybernabe.shinyapps.io/projectApp/)
 
 The Presentation here: [Slidify Presentation](http://mannybernabe.github.io/ddpslidify2)
 
