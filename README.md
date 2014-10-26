@@ -8,4 +8,6 @@ You accesses the app here: [Shiny App](https://mannybernabe.shinyapps.io/project
 Presentation here: [Slidify Presentation](http://mannybernabe.github.io/ddpslidify2)
 
 
-To you utlize the app, simply submit the height of the father and a prediction of the son's height will be generated.
+To you utlize the app, simply submit the height of the father and a prediction of the son's height will be generated.  Also, a histogram will be rendered of all the son height data along side a redline refenencing the prediction. 
+
+Enjoy!!
